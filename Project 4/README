@@ -1,0 +1,3 @@
+This code implements Turn by Turn Navigation
+Given a txt file of locations and their coordinates and a txtfile of street segments and their coordinates,
+This code will find the shortest route between two locations and output turn by turn directions
