@@ -1,5 +1,5 @@
 # Data-Structures-and-Algorithms-CS32
-UCLA CS32 Winter Quarter with Carey Nachenberg:
+UCLA CS32 Winter 2017 with Carey Nachenberg:
 
 
 Project 1: Rats Computer Game (OOP Practice)
